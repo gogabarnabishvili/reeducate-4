@@ -1,0 +1,146 @@
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        
+        .left_box {
+            width: 806px;
+            height: 983px;
+            background: linear-gradient(180deg, #7271FF 0%, #3433FF 100%);
+        }
+        
+        section {
+            display: flex;
+        }
+        
+        .logo {
+            font-size: 50px;
+            display: flex;
+            align-items: center;
+            color: #fff;
+            padding: 80px;
+        }
+        
+        .left_box h3 {
+            font-size: 24px;
+            line-height: 40px;
+            width: 475px;
+            text-align: center;
+            color: #fff;
+            padding-left: 80px;
+        }
+        
+        .user_div {
+            width: 482px;
+            height: 80px;
+            background-color: #f5f5ff;
+        }
+        
+        .user_div {
+            display: flex;
+            align-items: center;
+            margin-top: 103px;
+        }
+        
+        .user_online {
+            padding: 20px 20px 20px 37px;
+        }
+        
+        .report_a {
+            width: 104px;
+            height: 31px;
+            border-radius: 8px;
+            color: #fff;
+            padding: 4px 10px 3px 10px;
+            background-color: #4443FF;
+            padding: 4px 10px;
+            margin: 25px 66px 24px;
+        }
+        
+        .more_page {
+            width: 896px;
+            height: 668px;
+            margin-top: 73px;
+            margin-left: 172px;
+        }
+        
+        .right_box {
+            width: 100%;
+        }
+        
+        form {
+            width: 410px;
+            margin: 0 auto;
+            margin-top: 70px;
+        }
+        
+        form h2 {
+            font-size: 30px;
+            font-weight: 600;
+            line-height: 50px;
+            margin-bottom: 16px;
+        }
+        
+        .span1 {
+            font-size: 18px;
+            line-height: 30px;
+            font-weight: 300;
+            color: #949494;
+            margin-bottom: 20px;
+        }
+        
+        .smol_logo-a {
+            background-color: #7271FF;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            padding: 2px;
+        }
+        
+        form input {
+            width: 433px;
+            height: 60px;
+            border: 1px solid #949494;
+            margin: 16px 0;
+        }
+        
+        .submit {
+            width: 433px;
+            height: 69px;
+            background-color: #4443FF;
+            padding: 18px 120px;
+            color: #fff;
+            font-size: 20px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+        
+        .google_btn {
+            width: 433px;
+            height: 69px;
+            background-color: #fff;
+            color: #4443FF;
+            font-size: 20px;
+            font-weight: 600;
+            padding: 18px 80px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+        }
+        
+        .login_on {
+            font-size: 18px;
+            margin: 40px 88px;
+            color: #949494;
+        }
+        
+        .login_on a {
+            color: #7271FF;
+            text-decoration: revert;
+        }
