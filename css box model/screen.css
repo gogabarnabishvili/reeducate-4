@@ -1,0 +1,60 @@
+/* Exercise 1 */
+
+div {
+    width: 400px;
+    height: 300px;
+}
+
+
+/* Exercise 2 */
+
+div {
+    width: 25rem;
+    height: 18.75rem;
+}
+
+
+/* Exercise 3 */
+
+div {
+    margin: 3rem 0;
+}
+
+
+/* Exercise 4 */
+
+div {
+    padding: 2rem;
+    border: 6px solid red;
+}
+
+
+/* Exercise 5 */
+
+span {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+
+/* Exercise 6 */
+
+section {
+    color: #ffc700;
+    background-color: #18354a;
+    font-size: 1.1rem;
+    margin: 2rem auto;
+    padding: 3rem;
+    border: 1px solid lightgray;
+    max-width: 56rem;
+    height: 100%;
+}
+
+
+/* Exercise 7 */
+
+header {
+    background-image: url(../images/bg_header.png);
+    background-repeat: repeat-X;
+}
