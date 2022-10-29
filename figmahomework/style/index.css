@@ -12,6 +12,7 @@
             width: 806px;
             height: 983px;
             background: linear-gradient(180deg, #7271FF 0%, #3433FF 100%);
+            overflow: hidden;
         }
         
         section {
